@@ -1,4 +1,4 @@
-package vhrybyniuk.io.filemanager;
+package vhrybyniuk.io.fileanalyzer;
 
 import org.junit.jupiter.api.Test;
 
